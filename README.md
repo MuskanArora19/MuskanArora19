@@ -1,6 +1,6 @@
 # Hi, I'm Muskan Arora 👋
 
-### AI Automation & Business Operations Specialist
+### AI Automation & Business Operations Analyst
 
 I build practical **AI-powered business automations** that help organizations reduce repetitive work, improve operational efficiency, and turn business requests and data into actionable outcomes.
 
@@ -145,39 +145,72 @@ An AI-powered reporting workflow that transforms operational business data into 
 
 ---
 
+## 5. AI Business Operations Command Center
+
+An end-to-end AI-assisted business operations workflow designed to intake, analyze, prioritize, route, and track business requests while maintaining human oversight for higher-risk decisions.
+
+**Workflow:**
+
+`Webhook → Validation → OpenAI → JSON Parsing → Business Rules → Router → Human Review → Action → Logging → KPI Reporting`
+
+**Key capabilities:**
+
+* AI-powered request classification
+* Department and team assignment
+* Priority and urgency detection
+* Sentiment and risk-level assessment
+* AI-generated summaries and recommended actions
+* Confidence scoring
+* Deterministic business-rule routing
+* Human approval for high-risk or low-confidence requests
+* SLA and status tracking
+* Error handling and retry logic
+* Operational KPI reporting
+* Human-in-the-loop decision controls
+
+**Example operational fields:**
+
+`Category | Department | Priority | Urgency | Sentiment | Risk Level | AI Summary | Recommended Action | Confidence | Human Approval | Assigned Team | SLA | Status | Resolution`
+
+This project demonstrates how AI can be integrated into a structured business process while keeping business rules, risk controls, and human accountability in place.
+
+🔗 [View Project](https://github.com/MuskanArora19/ai-business-command-center)
+
+---
+
 # 💼 Business Problems I Can Help Automate
 
 ### Lead & Customer Operations
 
-* Lead intake
-* Lead qualification
-* Customer request routing
-* Duplicate detection
-* Automated follow-ups
+- Lead intake
+- Lead qualification
+- Customer request routing
+- Duplicate detection
+- Automated follow-ups
 
 ### Internal Operations
 
-* Employee requests
-* Access requests
-* Task routing
-* Priority management
-* Operational notifications
+- Employee requests
+- Access requests
+- Task routing
+- Priority management
+- Operational notifications
 
 ### Business Processes
 
-* Repetitive manual workflows
-* Data entry
-* Cross-platform information transfer
-* Request classification
-* Process standardization
+- Repetitive manual workflows
+- Manual data processing
+- Cross-platform information transfer
+- Request classification
+- Process standardization
 
 ### Reporting & Insights
 
-* KPI reporting
-* Operational dashboards
-* Data summarization
-* Performance analysis
-* AI-generated recommendations
+- KPI reporting
+- Operational dashboards
+- Data summarization
+- Performance analysis
+- AI-generated recommendations
 
 ---
 
@@ -193,17 +226,17 @@ The goal is to understand the **business problem first** and then design an auto
 
 ---
 
-# 📈 Currently Building
+# 🎯 Current Focus
 
-I'm currently expanding my expertise in:
+Focused on building and applying practical solutions across:
 
 * AI Business Automation
-* No-Code / Low-Code Automation
 * AI Operations
 * Business Process Optimization
+* No-Code / Low-Code Automation
 * AI-assisted Reporting
 * Workflow Architecture
-* Automation Consulting
+* Business Process Analysis
 
 ---
 
@@ -211,13 +244,14 @@ I'm currently expanding my expertise in:
 
 I'm open to opportunities in:
 
-* AI Automation
-* AI Operations
-* Business Operations
-* Automation Specialist roles
-* Operations Analyst roles
-* AI-assisted Business Process Automation
-* Freelance Automation Projects
+- AI Automation
+- AI Operations
+- Business Operations
+- Business Process Analysis
+- Automation Analyst roles
+- AI Business Analyst roles
+- AI-assisted Business Process Automation
+- Freelance Automation Projects
 
 If you're interested in automating repetitive business processes or building AI-powered workflows, feel free to connect.
 
