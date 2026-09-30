@@ -145,12 +145,11 @@ An AI-powered reporting workflow that transforms operational business data into 
 
 ---
 
-## 5. AI Business Operations Command Center
+### 5. P5 — AI Business Operations Command Center
 
 An end-to-end AI-assisted business operations workflow designed to intake, analyze, prioritize, route, and track business requests while maintaining human oversight for higher-risk decisions.
 
 **Workflow:**
-
 `Webhook → Validation → OpenAI → JSON Parsing → Business Rules → Router → Human Review → Action → Logging → KPI Reporting`
 
 **Key capabilities:**
@@ -169,12 +168,11 @@ An end-to-end AI-assisted business operations workflow designed to intake, analy
 * Human-in-the-loop decision controls
 
 **Example operational fields:**
-
 `Category | Department | Priority | Urgency | Sentiment | Risk Level | AI Summary | Recommended Action | Confidence | Human Approval | Assigned Team | SLA | Status | Resolution`
 
 This project demonstrates how AI can be integrated into a structured business process while keeping business rules, risk controls, and human accountability in place.
 
-🔗 [View Project](https://github.com/MuskanArora19/ai-business-command-center)
+🔗 **Repository:** [View P5 Project](https://github.com/MuskanArora19/ai-business-operations-command-center)
 
 ---
 
