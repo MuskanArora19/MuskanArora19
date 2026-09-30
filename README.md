@@ -172,7 +172,7 @@ An end-to-end AI-assisted business operations workflow designed to intake, analy
 
 This project demonstrates how AI can be integrated into a structured business process while keeping business rules, risk controls, and human accountability in place.
 
-🔗 **Repository:** [View P5 Project](https://github.com/MuskanArora19/ai-business-operations-command-center)
+🔗 [View P5 Project](https://github.com/MuskanArora19/ai-business-operations-command-center)
 
 ---
 
